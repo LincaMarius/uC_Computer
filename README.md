@@ -12,3 +12,5 @@ https://github.com/LincaMarius/uC_Computer
 The block diagram of µC Computer is as follows:
 
 ![ Figure 1 ](/Pictures/Figure1.png)
+
+Communication between modules is done using the I2C or SPI bus.
